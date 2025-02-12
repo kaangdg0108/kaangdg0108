@@ -30,8 +30,8 @@
 
 <div align=center> 
 
-  ![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoejun1208&show_icons=true&theme=buefy&include_all_commits=true)
-  [![hoejun1208 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoejun1208&show_icons=true&hide_border=true&title_color=8e72dc&icon_color=004386&layout=compact)](https://github.com/hoejun1208)
+  ![DaeGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaangdg0108&show_icons=true&theme=buefy&include_all_commits=true)
+  [![DaeGeun github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaangdg0108&show_icons=true&hide_border=true&title_color=8e72dc&icon_color=004386&layout=compact)](https://github.com/kaangdg0108)
 
 </div>
 
@@ -74,7 +74,7 @@
 
   ## 📲Contact
   <a href="mailto:kangdg@knu.ac.kr"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kangdg@knu.ac.kr"> </a>
-  <a href="https://code-escape.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그-f75748?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+  <a href="https://velog.io/@kaangdg0108" target="_blank"><img src="https://img.shields.io/badge/velog-f75748?style=for-the-badge&logo=velog&logoColor=black"/></a>
 
   
 </div>
