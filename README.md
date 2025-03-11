@@ -50,7 +50,7 @@
 
   ## 📲Contact
   <a href="mailto:kangdg@knu.ac.kr"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kangdg@knu.ac.kr"> </a>
-  <a href="https://velog.io/@kaangdg0108" target="_blank"><img src="https://img.shields.io/badge/velog-f75748?style=for-the-badge&logo=velog&logoColor=black"/></a>
+
 
   
 </div>
